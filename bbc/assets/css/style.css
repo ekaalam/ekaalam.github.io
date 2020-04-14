@@ -1,0 +1,252 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+.top_head {
+    padding: 2em 0
+}
+
+.navbar {
+    background-color: #052962!important
+}
+
+.logo_holder img {
+    width: 100%;
+    max-width: 288px;
+    height: auto;
+    border-style: none
+}
+
+.date_note {
+    font-weight: 400;
+    font-size: 1em;
+    margin-right: 10px;
+    color: rgba(0, 0, 0, .5);
+    padding-left: 3em;
+    float: left;
+    padding-left: 7em
+}
+
+.clearfix {
+    clear: both
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffff;
+    font-size: 1em;
+    font-weight: 600;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #ffe500;
+    font-size: 1em;
+    font-weight: 600
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .6rem;
+    padding-left: .6rem
+}
+
+.nav-link {
+    display: block;
+    padding: .5rem 1rem
+}
+
+.newsfeed {
+    text-align: center;
+    padding-top: 30px
+}
+
+.header1 {
+    font-weight: 700;
+    font-size: 45px
+}
+
+.header1 a {
+    color: #4d4d4d;
+    text-decoration: none
+}
+
+.header1 a:hover {
+    color: #ebc55e
+}
+
+.img_hastag img {
+    width: 100%;
+    height: auto
+}
+
+.img_content {
+    font-size: 1.4em;
+    font-weight: 400;
+    padding: 10px
+}
+
+.first {
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 5px solid rgba(0, 0, 0, .1)
+}
+
+.card-text1 {
+    font-weight: 700;
+    font-size: 2.2em;
+    text-align: center
+}
+
+.card-text1 a {
+    text-decoration: none;
+    color: #525252
+}
+
+.card-text1 a:hover {
+    color: #ebc55e
+}
+
+.list11 a {
+    text-decoration: none;
+    color: #000
+}
+
+.list11 a:hover {
+    color: #ebc55e
+}
+
+.css-nav {
+    list-style-type: none;
+    margin-top: 30px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #052962
+}
+
+.css-nav li {
+    float: left
+}
+
+.right-side a {
+    color: #ffffff
+}
+
+.css-nav li a {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.5em
+}
+
+.css-nav li a:hover {
+    background-color: #ebc55e
+}
+
+.title_news1 {
+    margin-top: 20px;
+    text-align: center
+}
+
+.title_news1 a {
+    text-decoration: none;
+    text-align: right;
+    color: #4c4c4c
+}
+
+.title_news1 a:hover {
+    color: #ebc55e
+}
+
+.three_nepali a {
+    text-decoration: none;
+    color: #000;
+    font-size: 1.2em;
+    font-weight: 520
+}
+
+.three_nepali a:hover {
+    color: #ebc55e
+}
+
+.bg-light {
+    background-color: #f4f8fb!important
+}
+
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 2em;
+    font-weight: 550;
+    line-height: inherit;
+    white-space: nowrap
+}
+
+.nagdunga {
+    font-size: 2.1em;
+    font-weight: 475;
+    text-align: left;
+    padding-top: 15px;
+    text-decoration: none
+}
+
+.nagdunga a {
+    text-decoration: none;
+    color: #000
+}
+
+.nagdunga a:hover {
+    color: #052962
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+    color: white
+}
+
+.containerTab {
+    padding: 20px;
+    color: white
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both
+}
+
+.closebtn {
+    float: right;
+    color: white;
+    font-size: 35px;
+    cursor: pointer
+}
+
+.listnews-1 {
+    width: 100%;
+    height: auto;
+    border: 1px solid #e8edf4;
+    box-shadow: 5px 5px 10px 10px #888888
+}
+
+.main-image-1 {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    transition: all .4s ease
+}
+
+.summary-text {
+    font-size: 1.2em;
+    font-weight: 450
+}

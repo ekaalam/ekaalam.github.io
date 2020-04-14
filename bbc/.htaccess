@@ -1,0 +1,4 @@
+Options -Indexes
+
+#ErrorDocument 
+ErrorDocument 403 http://bbc.loc/
